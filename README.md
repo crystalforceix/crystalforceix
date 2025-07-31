@@ -9,10 +9,10 @@
 
 ###
 
-<img align="right" height="130" src="./Gifs/Neko_Wave.gif"  />
+<img align="right" height="150" src="./Gifs/Neko_Wave.gif"  />
 
 ###
-
+&nbsp;
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="30" alt="nim logo"  />
   <img width="12" />
