@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./Gifs/Neko_Wave.gif"  />
+<img align="right" height="130" src="./Gifs/Neko_Wave.gif"  />
 
 ###
 
