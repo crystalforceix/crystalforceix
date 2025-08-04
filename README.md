@@ -42,16 +42,13 @@
 ####
 <div align="center">
 <h2>⬇️ My most activity repository here ⬇️</h2>
-  
+</div>
+&nbsp;
+<div align="center">
 <a href="https://github.com/crystalforceix/crystal-dots">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=crystal-dots&theme=dracula" />
 </a>
 <a href="https://github.com/crystalforceix/niri-dotfiles-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=niri-dotfiles-v2&theme=dracula" />
 </a>
-
-<br />
-<br />
 </div>
-
-###
