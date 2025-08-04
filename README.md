@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crystalforceix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crystalforceix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=crystalforceix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crystalforceix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -46,10 +46,10 @@
 &nbsp;
 <div align="center">
 <a href="https://github.com/crystalforceix/crystal-dots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=crystal-dots&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=crystal-dots&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/crystalforceix/niri-dotfiles-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=niri-dotfiles-v2&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=niri-dotfiles-v2&theme=dracula&hide_border=true" />
 </a>
 </div>
 
