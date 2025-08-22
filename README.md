@@ -48,8 +48,8 @@
 <a href="https://github.com/crystalforceix/crystalforceix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=crystalforceix&theme=onedark&hide_border=true" />
 </a>
-<a href="https://github.com/crystalforceix/Cappa-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=Cappa-Projects&theme=onedark&hide_border=true" />
+<a href="https://github.com/crystalforceix/i3-dotfiles-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=i3-dotfiles-template&theme=onedark&hide_border=true" />
 </a>
 </div>
 
