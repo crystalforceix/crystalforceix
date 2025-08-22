@@ -45,8 +45,8 @@
 </div>
 &nbsp;
 <div align="center">
-<a href="https://github.com/crystalforceix/crystal-dots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=crystal-dots&theme=onedark&hide_border=true" />
+<a href="https://github.com/crystalforceix/Cappa-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=Cappa-Projects&theme=onedark&hide_border=true" />
 </a>
 <a href="https://github.com/crystalforceix/niri-dotfiles-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crystalforceix&repo=niri-dotfiles-v2&theme=onedark&hide_border=true" />
